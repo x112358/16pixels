@@ -10,8 +10,6 @@
 
 ## npm Install
 
-## npm Install
-
     npm install 16pixels
 
 ## bower Install
